@@ -1,0 +1,4 @@
+* New skills:  updated tags (e.g. <s> instead of <strike>)
+* Easy stuff:  "Easy" is an unfair word, HTML is something I already had a little experience with
+* Hard stuff:  Matching the font without a style guide
+* Strategies:  Working late at night leads to silly mistakes, Google is a better resource than MDN, taking my time and working methodically is more efficient
